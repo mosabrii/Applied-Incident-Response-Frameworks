@@ -40,11 +40,20 @@ As a SOC analyst, the task is to follow the organization’s phishing incident r
 
 ## Project Structure
 
-- **01-Incident-Investigation.md**  
-  Initial alert review, analysis, and phishing validation.
+### 01-Incident-Investigation.md
+Initial phishing alert review and validation process.
 
-- **02-Alert-Response-and-Resolution.md**  
-  Escalation decision, response actions, and alert closure.
+### 02-Playbook-Guided-Response.md
+Playbook-driven escalation and incident response actions.
+
+### 03-Incident-Resolution-Summary.md
+Final incident outcome and resolution summary.
+
+### Alert-Ticket.pdf
+SOC alert ticket containing incident metadata and status.
+
+### Phishing-Email-Sample.pdf
+Original phishing email content and malicious indicators.
 
 ---
 
