@@ -52,9 +52,6 @@ Final incident outcome and resolution summary.
 ### Alert-Ticket.pdf
 SOC alert ticket containing incident metadata and status.
 
-### Phishing-Email-Sample.pdf
-Original phishing email content and malicious indicators.
-
 ---
 
 ## Methodology
