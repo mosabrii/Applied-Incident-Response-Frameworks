@@ -1,4 +1,4 @@
-# Phishing-Incident-Response-Playbook
+# Phishing Incident Response Playbook
 
 ## Project Overview
 
